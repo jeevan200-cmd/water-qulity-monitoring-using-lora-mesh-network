@@ -1,0 +1,24 @@
+# Arduino build and editor files
+*.hex
+*.elf
+*.bin
+*.map
+*.eep
+*.lss
+*.lst
+*.srec
+*.sym
+*.ino.cpp
+*.ino.map
+
+# Local Arduino and IDE metadata
+.pio/
+.vscode/
+build/
+arduino_secrets.h
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
